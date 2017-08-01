@@ -8,5 +8,6 @@ public class HemsireliktanilariApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(HemsireliktanilariApplication.class, args);
+                System.out.println("esma");
 	}
 }
